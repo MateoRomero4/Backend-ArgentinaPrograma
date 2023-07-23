@@ -1,6 +1,6 @@
-package com.Portfolio.mr.Interface;
+package com.portfolio.mr.Interface;
 
-import com.Portfolio.mr.Entity.Person;
+import com.portfolio.mr.Entity.Person;
 import java.util.List;
 
 public interface IPersonService {

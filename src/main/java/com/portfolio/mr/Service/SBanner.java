@@ -1,12 +1,12 @@
-package com.Portfolio.mr.Service;
+package com.portfolio.mr.Service;
 
-import com.Portfolio.mr.Entity.Banner;
+import com.portfolio.mr.Entity.Banner;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.Portfolio.mr.Repository.RBanner;
+import com.portfolio.mr.Repository.RBanner;
 
 @Service
 @Transactional

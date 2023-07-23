@@ -1,4 +1,4 @@
-package com.Portfolio.mr.security.dto;
+package com.portfolio.mr.security.dto;
 
 import javax.validation.constraints.NotBlank;
 

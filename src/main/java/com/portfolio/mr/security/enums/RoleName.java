@@ -1,5 +1,5 @@
 
-package com.Portfolio.mr.security.enums;
+package com.portfolio.mr.security.enums;
 
 
 public enum RoleName {

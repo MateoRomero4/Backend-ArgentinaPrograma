@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Portfolio.mr.Service;
+package com.portfolio.mr.Service;
 
-import com.Portfolio.mr.Entity.Project;
+import com.portfolio.mr.Entity.Project;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.Portfolio.mr.Repository.RProject;
+import com.portfolio.mr.Repository.RProject;
 
 @Service
 @Transactional

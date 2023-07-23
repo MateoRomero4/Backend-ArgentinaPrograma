@@ -1,9 +1,9 @@
-package com.Portfolio.mr.Controller;
+package com.portfolio.mr.Controller;
 
-import com.Portfolio.mr.security.controller.Mensaje;
-import com.Portfolio.mr.Dto.dtoHys;
-import com.Portfolio.mr.Entity.hys;
-import com.Portfolio.mr.Service.Shys;
+import com.portfolio.mr.security.controller.Mensaje;
+import com.portfolio.mr.Dto.dtoHys;
+import com.portfolio.mr.Entity.hys;
+import com.portfolio.mr.Service.Shys;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
