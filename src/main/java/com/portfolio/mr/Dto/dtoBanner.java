@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.portfolio.mr.Dto;
+package com.Portfolio.mr.Dto;
 
 import javax.validation.constraints.NotBlank;
 

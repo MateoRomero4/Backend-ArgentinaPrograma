@@ -1,7 +1,7 @@
 
-package com.portfolio.mr.security.JWT;
+package com.Portfolio.mr.security.JWT;
 
-import com.portfolio.mr.security.Service.UserDetailsImp;
+import com.Portfolio.mr.security.Service.UserDetailsImp;
 import java.io.IOException;
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

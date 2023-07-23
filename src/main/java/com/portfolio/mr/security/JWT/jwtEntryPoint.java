@@ -1,4 +1,4 @@
-package com.portfolio.mr.security.JWT;
+package com.Portfolio.mr.security.JWT;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

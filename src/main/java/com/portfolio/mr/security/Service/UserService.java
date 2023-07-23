@@ -1,7 +1,7 @@
-package com.portfolio.mr.security.Service;
+package com.Portfolio.mr.security.Service;
 
-import com.portfolio.mr.security.entity.User;
-import com.portfolio.mr.security.repository.IUserRepository;
+import com.Portfolio.mr.security.entity.User;
+import com.Portfolio.mr.security.repository.IUserRepository;
 import java.util.Optional;
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

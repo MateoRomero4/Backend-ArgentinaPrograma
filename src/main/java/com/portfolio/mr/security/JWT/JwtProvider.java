@@ -1,7 +1,7 @@
 
-package com.portfolio.mr.security.JWT;
+package com.Portfolio.mr.security.JWT;
 
-import com.portfolio.mr.security.entity.MainUser;
+import com.Portfolio.mr.security.entity.MainUser;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;
