@@ -1,7 +1,7 @@
 
-package com.Portfolio.mr.security.entity;
+package com.portfolio.mr.security.entity;
 
-import com.Portfolio.mr.security.enums.RoleName;
+import com.portfolio.mr.security.enums.RoleName;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;

@@ -1,13 +1,13 @@
-package com.Portfolio.mr.security.controller;
+package com.portfolio.mr.security.controller;
 
-import com.Portfolio.mr.security.Service.RolService;
-import com.Portfolio.mr.security.Service.UserService;
-import com.Portfolio.mr.security.dto.JwtDto;
-import com.Portfolio.mr.security.dto.LoginUser;
-import com.Portfolio.mr.security.dto.NewUser;
-import com.Portfolio.mr.security.entity.Role;
-import com.Portfolio.mr.security.entity.User;
-import com.Portfolio.mr.security.enums.RoleName;
+import com.portfolio.mr.security.Service.RolService;
+import com.portfolio.mr.security.Service.UserService;
+import com.portfolio.mr.security.dto.JwtDto;
+import com.portfolio.mr.security.dto.LoginUser;
+import com.portfolio.mr.security.dto.NewUser;
+import com.portfolio.mr.security.entity.Role;
+import com.portfolio.mr.security.entity.User;
+import com.portfolio.mr.security.enums.RoleName;
 import com.portfolio.mr.security.JWT.JwtProvider;
 import java.util.HashSet;
 import java.util.Set;

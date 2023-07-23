@@ -1,7 +1,7 @@
 
 package com.portfolio.mr.Controller;
 
-import com.Portfolio.mr.security.controller.Mensaje;
+import com.portfolio.mr.security.controller.Mensaje;
 import com.portfolio.mr.Dto.dtoPerson;
 import com.portfolio.mr.Entity.Person;
 import com.portfolio.mr.Interface.IPersonService;

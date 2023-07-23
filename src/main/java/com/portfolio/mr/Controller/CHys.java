@@ -1,6 +1,6 @@
 package com.portfolio.mr.Controller;
 
-import com.Portfolio.mr.security.controller.Mensaje;
+import com.portfolio.mr.security.controller.Mensaje;
 import com.portfolio.mr.Dto.dtoHys;
 import com.portfolio.mr.Entity.hys;
 import com.portfolio.mr.Service.Shys;

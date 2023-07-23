@@ -1,4 +1,4 @@
-package com.Portfolio.mr.security.dto;
+package com.portfolio.mr.security.dto;
 
 import java.util.HashSet;
 import java.util.Set;

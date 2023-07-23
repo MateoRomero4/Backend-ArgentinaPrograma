@@ -1,7 +1,7 @@
 
 package com.portfolio.mr.Controller;
 
-import com.Portfolio.mr.security.controller.Mensaje;
+import com.portfolio.mr.security.controller.Mensaje;
 import com.portfolio.mr.Dto.dtoBanner;
 import com.portfolio.mr.Entity.Banner;
 import com.portfolio.mr.Service.SBanner;

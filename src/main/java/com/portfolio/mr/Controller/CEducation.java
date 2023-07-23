@@ -5,7 +5,7 @@
  */
 package com.portfolio.mr.Controller;
 
-import com.Portfolio.mr.security.controller.Mensaje;
+import com.portfolio.mr.security.controller.Mensaje;
 import com.portfolio.mr.Dto.dtoEducation;
 import com.portfolio.mr.Entity.Education;
 import com.portfolio.mr.Service.Seducation;

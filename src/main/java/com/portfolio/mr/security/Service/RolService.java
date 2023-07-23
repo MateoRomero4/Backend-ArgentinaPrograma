@@ -1,8 +1,8 @@
-package com.Portfolio.mr.security.Service;
+package com.portfolio.mr.security.Service;
 
-import com.Portfolio.mr.security.entity.Role;
-import com.Portfolio.mr.security.enums.RoleName;
-import com.Portfolio.mr.security.repository.IRoleRepository;
+import com.portfolio.mr.security.entity.Role;
+import com.portfolio.mr.security.enums.RoleName;
+import com.portfolio.mr.security.repository.IRoleRepository;
 import java.util.Optional;
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
